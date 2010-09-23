@@ -1,0 +1,5 @@
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\WebTest\bin\WebTest.dll
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\WebTest\bin\WebTest.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\WebTest\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\WebTest\obj\Debug\WebTest.dll
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\WebTest\obj\Debug\WebTest.pdb

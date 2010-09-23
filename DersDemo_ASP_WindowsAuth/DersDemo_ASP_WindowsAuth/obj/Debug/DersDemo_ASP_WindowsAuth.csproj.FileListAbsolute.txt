@@ -1,0 +1,5 @@
+C:\DersDemolari\20100922\DersDemo_ASP_WindowsAuth\DersDemo_ASP_WindowsAuth\bin\DersDemo_ASP_WindowsAuth.dll
+C:\DersDemolari\20100922\DersDemo_ASP_WindowsAuth\DersDemo_ASP_WindowsAuth\bin\DersDemo_ASP_WindowsAuth.pdb
+C:\DersDemolari\20100922\DersDemo_ASP_WindowsAuth\DersDemo_ASP_WindowsAuth\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100922\DersDemo_ASP_WindowsAuth\DersDemo_ASP_WindowsAuth\obj\Debug\DersDemo_ASP_WindowsAuth.dll
+C:\DersDemolari\20100922\DersDemo_ASP_WindowsAuth\DersDemo_ASP_WindowsAuth\obj\Debug\DersDemo_ASP_WindowsAuth.pdb

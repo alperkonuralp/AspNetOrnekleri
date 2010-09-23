@@ -1,0 +1,5 @@
+C:\DersDemolari\20100916\DersDemo_ASP_Ado1\DersDemo_ASP_Ado1\bin\DersDemo_ASP_Ado1.dll
+C:\DersDemolari\20100916\DersDemo_ASP_Ado1\DersDemo_ASP_Ado1\bin\DersDemo_ASP_Ado1.pdb
+C:\DersDemolari\20100916\DersDemo_ASP_Ado1\DersDemo_ASP_Ado1\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100916\DersDemo_ASP_Ado1\DersDemo_ASP_Ado1\obj\Debug\DersDemo_ASP_Ado1.dll
+C:\DersDemolari\20100916\DersDemo_ASP_Ado1\DersDemo_ASP_Ado1\obj\Debug\DersDemo_ASP_Ado1.pdb

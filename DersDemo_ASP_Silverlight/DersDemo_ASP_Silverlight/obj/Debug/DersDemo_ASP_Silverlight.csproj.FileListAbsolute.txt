@@ -1,0 +1,12 @@
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\Bin\Debug\AppManifest.xaml
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\Bin\Debug\DersDemo_ASP_Silverlight.dll
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\Bin\Debug\DersDemo_ASP_Silverlight.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\Bin\Debug\DersDemo_ASP_Silverlight.xap
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\Bin\Debug\TestPage.html
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\App.g.cs
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\Page.g.cs
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\DersDemo_ASP_Silverlight.g.resources
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\DersDemo_ASP_Silverlight.dll
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\DersDemo_ASP_Silverlight.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_Silverlight\DersDemo_ASP_Silverlight\obj\Debug\XapCacheFile.xml

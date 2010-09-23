@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="DersDemo_ASP_First.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="global.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="dContainer">
+        <div id="dHeader">
+            Logo - Header Area
+        </div>
+        <div id="dMenu">
+            <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+                <asp:HyperLink runat="server" NavigateUrl="~">Ana Sayfa</asp:HyperLink>
+                <asp:HyperLink runat="server" NavigateUrl="~/WebForm1.aspx">İlk Sayfa</asp:HyperLink>
+                <asp:HyperLink runat="server" NavigateUrl="~/WebForm2.aspx">İkinci Sayfa</asp:HyperLink>
+                <asp:HyperLink runat="server" NavigateUrl="~/WebForm3.aspx">Üçüncü Sayfa</asp:HyperLink>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="dBody">
+            <asp:ContentPlaceHolder ID="cphBody" runat="server">
+                <div id="dLeftMenu">
+                    <asp:ContentPlaceHolder ID="cphLeftMenu" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="dBodyCenter">
+                    <asp:ContentPlaceHolder ID="cphBodyCenter" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="dFooter">
+            Footer Area
+        </div>
+    </div>
+    </form>
+</body>
+</html>

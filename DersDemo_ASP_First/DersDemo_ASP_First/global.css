@@ -1,0 +1,63 @@
+﻿body
+{
+    margin: 0;
+}
+
+#dContainer
+{
+    width: 600px;
+    margin: 0 auto;
+}
+#dContainer #dHeader
+{
+    height: 50px;
+    color: white;
+    background: blue;
+    text-align: center;
+}
+#dContainer #dMenu
+{
+    padding: 5px 10px;
+    color: white;
+    background: #FFFF00;
+    text-align: center;
+}
+#dContainer #dMenu a
+{
+    color: Black;
+    text-decoration: none;
+    font-weight: bold;
+}
+#dContainer #dMenu a:hover
+{
+    color: Red;
+    text-decoration: underline;
+}
+
+#dContainer #dBody
+{
+    background: #dddddd;
+    color: #222222;
+    min-height: 300px;
+    text-align: center;
+}
+#dContainer #dBody #dLeftMenu
+{
+    width: 150px;
+    float: left;
+    border-right: 1px solid black;
+    min-height: 300px;
+}
+#dContainer #dBody #dBodyCenter
+{
+    width: 439px;
+    float: left;
+    min-height: 300px;
+}
+#dContainer #dFooter
+{
+    height: 40px;
+    color: white;
+    background: blue;
+    text-align: center;
+}

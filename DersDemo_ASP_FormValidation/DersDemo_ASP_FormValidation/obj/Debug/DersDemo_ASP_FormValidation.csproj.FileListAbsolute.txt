@@ -1,0 +1,5 @@
+C:\DersDemolari\20100915\DersDemo_ASP_FormValidation\DersDemo_ASP_FormValidation\bin\DersDemo_ASP_FormValidation.dll
+C:\DersDemolari\20100915\DersDemo_ASP_FormValidation\DersDemo_ASP_FormValidation\bin\DersDemo_ASP_FormValidation.pdb
+C:\DersDemolari\20100915\DersDemo_ASP_FormValidation\DersDemo_ASP_FormValidation\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100915\DersDemo_ASP_FormValidation\DersDemo_ASP_FormValidation\obj\Debug\DersDemo_ASP_FormValidation.dll
+C:\DersDemolari\20100915\DersDemo_ASP_FormValidation\DersDemo_ASP_FormValidation\obj\Debug\DersDemo_ASP_FormValidation.pdb

@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AltSite.master.cs"
+    Inherits="DersDemo_ASP_First.AltSite" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="cphHead" runat="server">
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="cphMenu" runat="server">
+    <asp:ContentPlaceHolder ID="cphMenu" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="cphBody" runat="server">
+    <div id="dLeftMenu">
+        <asp:ContentPlaceHolder ID="cphLeftMenu" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="dBodyCenter">
+        <asp:ContentPlaceHolder ID="cphBodyCenter" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

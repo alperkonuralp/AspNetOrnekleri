@@ -1,0 +1,5 @@
+C:\DersDemolari\20100914\DersDemo_ASP_First\DersDemo_ASP_First\bin\DersDemo_ASP_First.dll
+C:\DersDemolari\20100914\DersDemo_ASP_First\DersDemo_ASP_First\bin\DersDemo_ASP_First.pdb
+C:\DersDemolari\20100914\DersDemo_ASP_First\DersDemo_ASP_First\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100914\DersDemo_ASP_First\DersDemo_ASP_First\obj\Debug\DersDemo_ASP_First.dll
+C:\DersDemolari\20100914\DersDemo_ASP_First\DersDemo_ASP_First\obj\Debug\DersDemo_ASP_First.pdb

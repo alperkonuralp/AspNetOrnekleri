@@ -1,0 +1,5 @@
+C:\DersDemolari\20100917\DersDemo_ASP_AjaxWebService\DersDemo_ASP_AjaxWebService\bin\DersDemo_ASP_AjaxWebService.dll
+C:\DersDemolari\20100917\DersDemo_ASP_AjaxWebService\DersDemo_ASP_AjaxWebService\bin\DersDemo_ASP_AjaxWebService.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_AjaxWebService\DersDemo_ASP_AjaxWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_AjaxWebService\DersDemo_ASP_AjaxWebService\obj\Debug\DersDemo_ASP_AjaxWebService.dll
+C:\DersDemolari\20100917\DersDemo_ASP_AjaxWebService\DersDemo_ASP_AjaxWebService\obj\Debug\DersDemo_ASP_AjaxWebService.pdb

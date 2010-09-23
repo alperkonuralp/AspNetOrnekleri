@@ -1,0 +1,5 @@
+C:\DersDemolari\20100914\DersDemo_ASP_Trace\DersDemo_ASP_Trace\bin\DersDemo_ASP_Trace.dll
+C:\DersDemolari\20100914\DersDemo_ASP_Trace\DersDemo_ASP_Trace\bin\DersDemo_ASP_Trace.pdb
+C:\DersDemolari\20100914\DersDemo_ASP_Trace\DersDemo_ASP_Trace\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100914\DersDemo_ASP_Trace\DersDemo_ASP_Trace\obj\Debug\DersDemo_ASP_Trace.dll
+C:\DersDemolari\20100914\DersDemo_ASP_Trace\DersDemo_ASP_Trace\obj\Debug\DersDemo_ASP_Trace.pdb

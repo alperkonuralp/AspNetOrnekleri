@@ -1,0 +1,5 @@
+C:\DersDemolari\20100917\DersDemo_ASP_DataSetXML\DersDemo_ASP_DataSetXML\bin\DersDemo_ASP_DataSetXML.dll
+C:\DersDemolari\20100917\DersDemo_ASP_DataSetXML\DersDemo_ASP_DataSetXML\bin\DersDemo_ASP_DataSetXML.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_DataSetXML\DersDemo_ASP_DataSetXML\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_DataSetXML\DersDemo_ASP_DataSetXML\obj\Debug\DersDemo_ASP_DataSetXML.dll
+C:\DersDemolari\20100917\DersDemo_ASP_DataSetXML\DersDemo_ASP_DataSetXML\obj\Debug\DersDemo_ASP_DataSetXML.pdb

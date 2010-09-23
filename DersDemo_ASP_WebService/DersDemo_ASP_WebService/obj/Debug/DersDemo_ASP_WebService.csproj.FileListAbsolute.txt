@@ -1,0 +1,5 @@
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\DersDemo_ASP_WebService\bin\DersDemo_ASP_WebService.dll
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\DersDemo_ASP_WebService\bin\DersDemo_ASP_WebService.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\DersDemo_ASP_WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\DersDemo_ASP_WebService\obj\Debug\DersDemo_ASP_WebService.dll
+C:\DersDemolari\20100917\DersDemo_ASP_WebService\DersDemo_ASP_WebService\obj\Debug\DersDemo_ASP_WebService.pdb

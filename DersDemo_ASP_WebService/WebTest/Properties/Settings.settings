@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WebTest_DemoService_Demo" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:1777/Demo.asmx</Value>
+    </Setting>
+    <Setting Name="WebTest_Weather_Weather" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ws.cdyne.com/WeatherWS/Weather.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

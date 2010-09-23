@@ -1,0 +1,7 @@
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\bin\DersDemo_ASP_AJAX.dll
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\bin\DersDemo_ASP_AJAX.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\obj\Debug\DersDemo_ASP_AJAX.dll
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\obj\Debug\DersDemo_ASP_AJAX.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\bin\AjaxControlToolkit.dll
+C:\DersDemolari\20100917\DersDemo_ASP_AJAX\DersDemo_ASP_AJAX\bin\AjaxControlToolkit.pdb

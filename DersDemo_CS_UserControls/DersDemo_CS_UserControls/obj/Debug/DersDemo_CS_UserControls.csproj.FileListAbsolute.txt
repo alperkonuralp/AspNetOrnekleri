@@ -1,0 +1,5 @@
+C:\DersDemolari\20100915\DersDemo_CS_UserControls\DersDemo_CS_UserControls\bin\DersDemo_CS_UserControls.dll
+C:\DersDemolari\20100915\DersDemo_CS_UserControls\DersDemo_CS_UserControls\bin\DersDemo_CS_UserControls.pdb
+C:\DersDemolari\20100915\DersDemo_CS_UserControls\DersDemo_CS_UserControls\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100915\DersDemo_CS_UserControls\DersDemo_CS_UserControls\obj\Debug\DersDemo_CS_UserControls.dll
+C:\DersDemolari\20100915\DersDemo_CS_UserControls\DersDemo_CS_UserControls\obj\Debug\DersDemo_CS_UserControls.pdb

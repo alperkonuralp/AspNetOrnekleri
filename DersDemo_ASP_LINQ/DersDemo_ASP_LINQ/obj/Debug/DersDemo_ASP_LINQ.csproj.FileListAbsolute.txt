@@ -1,0 +1,5 @@
+C:\DersDemolari\20100917\DersDemo_ASP_LINQ\DersDemo_ASP_LINQ\bin\DersDemo_ASP_LINQ.dll
+C:\DersDemolari\20100917\DersDemo_ASP_LINQ\DersDemo_ASP_LINQ\bin\DersDemo_ASP_LINQ.pdb
+C:\DersDemolari\20100917\DersDemo_ASP_LINQ\DersDemo_ASP_LINQ\obj\Debug\ResolveAssemblyReference.cache
+C:\DersDemolari\20100917\DersDemo_ASP_LINQ\DersDemo_ASP_LINQ\obj\Debug\DersDemo_ASP_LINQ.dll
+C:\DersDemolari\20100917\DersDemo_ASP_LINQ\DersDemo_ASP_LINQ\obj\Debug\DersDemo_ASP_LINQ.pdb
